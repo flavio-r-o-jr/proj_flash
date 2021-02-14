@@ -1,0 +1,15 @@
+.ant-pagination{    
+    visibility: hidden;
+}
+
+.actions{
+    text-align-last: center;
+}
+
+.actions button{
+    margin: 5px;
+}
+
+.ant-card{
+    margin: 1%;
+}

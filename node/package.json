@@ -1,0 +1,31 @@
+{
+  "name": "exercio_flash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavio-r-o-jr/exercio_flash.git"
+  },
+  "author": "Flavio Rodrigues de Oliveira Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavio-r-o-jr/exercio_flash/issues"
+  },
+  "homepage": "https://github.com/flavio-r-o-jr/exercio_flash#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "mongoose-paginate": "^5.0.3",
+    "react-input-mask": "^2.0.4",
+    "require-dir": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

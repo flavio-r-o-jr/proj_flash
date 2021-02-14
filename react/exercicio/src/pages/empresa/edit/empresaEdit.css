@@ -1,0 +1,32 @@
+.empresa-edit input{
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 12px;
+    color: dimgray;
+    width: 100%;
+}
+
+.empresa-edit label{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
+.formulario.ant-card{
+    width: 65%;
+    margin-left: 17%;
+    border-radius: 10px;
+    border-color: gray;
+    border: 1px solid;
+}
+
+.ant-card-head{
+    text-align-last: center;
+    font-size: 24px;
+    font-family: sans-serif;    
+    border: 1px solid
+}
